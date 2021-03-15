@@ -1,0 +1,5 @@
+const wilder = {
+     'name': 'aliki',
+     'campus': 'berlin' };
+
+module.exports = wilder;
